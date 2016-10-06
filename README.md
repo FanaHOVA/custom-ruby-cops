@@ -2,7 +2,7 @@
 
 How to install custom Cops:
 
-- Create a folder to store them in (In Rails I prefer `lib/rubocop/cops`)
+- Create a folder to store them in (In Rails I prefer `lib/rubocop/cop`)
 - Save cop in that folder
 - Require it in your `.rubocop.yml`:
 
